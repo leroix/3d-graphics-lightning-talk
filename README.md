@@ -24,4 +24,4 @@ see also: [https://threejs.org/](https://threejs.org/)
 [http://roman01la.github.io/threejs-cljs-playground/](http://roman01la.github.io/threejs-cljs-playground/)
 
 ## Interactive
-[http://roman01la.github.io/threejs-cljs-playground/#/520209/a8aad53a-1e0e-edb5-8662-78c7a8698232/2](http://roman01la.github.io/threejs-cljs-playground/#/520209/a8aad53a-1e0e-edb5-8662-78c7a8698232/2)
+[http://roman01la.github.io/threejs-cljs-playground/#/520209/a8aad53a-1e0e-edb5-8662-78c7a8698232/3](http://roman01la.github.io/threejs-cljs-playground/#/520209/a8aad53a-1e0e-edb5-8662-78c7a8698232/3)
